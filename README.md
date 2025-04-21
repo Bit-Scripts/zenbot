@@ -79,15 +79,16 @@ docker run -d --env-file .env zenbot
 
 ## 🧾 Commandes disponibles
 
-Commande | Description
-/zen | Lance une musique zen aléatoire
-/mode | Choisit le mode : api, local, ou mix
-/start | Relance la lecture si pause
-/pause | Met en pause la musique
-/stop | Arrête la lecture et quitte le vocal
-/next | Passe à la piste suivante
-/info | Affiche la piste en cours
-/help | Rappelle la liste des commandes
+| Commande | Description                          |
+|---       |---                                   |
+| /zen     | Lance une musique zen aléatoire      |
+| /mode    | Choisit le mode : api, local, ou mix |
+| /start   | Relance la lecture si pause          |
+| /pause   | Met en pause la musique              |
+| /stop    | Arrête la lecture et quitte le vocal |
+| /next    | Passe à la piste suivante            |
+| /info    | Affiche la piste en cours            |
+| /help    | Rappelle la liste des commandes      |
 
 ---
 
