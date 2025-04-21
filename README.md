@@ -1,6 +1,8 @@
 # 🎧 ZenBot – Musique de relaxation pour Discord
 
 ![Made with Node.js](https://img.shields.io/badge/made%20with-Node.js-brightgreen)
+[![Node.js](https://img.shields.io/badge/node-18.x-green.svg)](https://nodejs.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ZenBot est un bot Discord qui diffuse aléatoirement des musiques de relaxation issues de fichiers locaux ou de l'API [Freesound.org](https://freesound.org). Il crée une ambiance zen dans un salon vocal et affiche un suivi de la lecture via des messages embed mis à jour.
 
