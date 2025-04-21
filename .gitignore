@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Env vars & secrets
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Optional build folders
+dist/
+build/
+
+# PM2 logs (si tu utilises PM2)
+logs/
+
